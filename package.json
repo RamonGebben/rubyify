@@ -1,0 +1,18 @@
+{
+  "name": "rubyify",
+  "version": "0.0.1",
+  "description": "An library to make Javascript Objects a little better",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "String",
+    "Array",
+    "stringify",
+    "titleize",
+    "parameterize"
+  ],
+  "author": "Ramon Gebben <ramon@ra-ge.net> (http://ra-ge.net)",
+  "license": "MIT"
+}
